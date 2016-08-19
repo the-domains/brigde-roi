@@ -1,0 +1,14 @@
+layout_spectrum: 0.8051999898161739
+typography_spectrum: 0.8666947849560529
+color:
+  brandStrength: 0.5333119686692953
+  lightness: 0.8166028435807675
+  saturation: 0.2527935500256717
+  rhythmicContrast: 0.0708858270663768
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Brigde ROI
