@@ -1,14 +1,14 @@
 ---
 description: Questions to ask yourself if ‘Bridge ROI’ is a good for your company.
-dateModified: '2016-08-19T19:11:36.309Z'
-datePublished: '2016-08-19T19:12:22.140Z'
+dateModified: '2016-08-19T19:13:32.965Z'
+datePublished: '2016-08-19T19:13:33.133Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-questions-to-ask-yourself-if-bridge-roi-is-a-good-for-your.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
