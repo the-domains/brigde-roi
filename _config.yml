@@ -12,6 +12,10 @@ color:
     - '#160600'
 layout_spectrum: 0.8051999898161739
 name: Brigde ROI
+navigation:
+  - name: Holding Company
+    url: rebuild.group
+    type: external
 title: Bridge Your ROI
 description: >-
   A simple, affordable solution to track the return on your marketing
